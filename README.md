@@ -42,6 +42,15 @@ This greedy approach guarantees the shortest possible runtime.
 
 ---
 
+## 🎥 Project Explanation Video
+
+A short video explaining the problem understanding, flowchart logic, code implementation, and sample execution is available here:
+
+👉 **Watch the explanation video:**  
+https://drive.google.com/file/d/1sahquxQaXqlJtsJKxCoS010CxCmSZnKq/view?usp=sharing
+
+---
+
 ## 🔁 Flowchart
 
 The flowchart below illustrates the complete decision process for battery charging and task execution:
